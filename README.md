@@ -35,4 +35,4 @@ To run these notebooks locally:
 3. Launch Jupyter Notebook or open in VS Code.
 
 ---
-*Connect with me on [LinkedIn](YOUR_LINKEDIN_URL) if you'd like to discuss data or collaborate!*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/arth-arvind/) if you'd like to discuss data or collaborate!*
